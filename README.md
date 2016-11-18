@@ -9,9 +9,10 @@ Term: Fall 2016
 + [Data link](https://courseworks2.columbia.edu/courses/11849/files/folder/Project_Files?preview=763391)-(**courseworks login required**)
 + [Data description](doc/readme.html)
 + Contributor's name:
-+ Cen Zeng
-+ Projec title: Lorem ipsum dolor sit amet
-+ Project summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Cen Zeng
++ Projec title: Lyric Recommendation According to Music
++ Project summary: 
+  In this project, we'll predict or recommend lyric distribution for songs by analysis of their sound. We basically extract 45 variables as our feature to represent sound of one song. These variables includes mean, standard deviation and IQR of bars_start, bars_confidence, beats_start, beats_confidence and so on. And our analysis is based on the assumption that the sound of a song can be represented by these 45 variables.
 	
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
